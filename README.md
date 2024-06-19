@@ -1,6 +1,6 @@
 ## Requirements:
-  NVM (Node version manager)
-  NPM (Node package manager)
+NVM (Node version manager)\
+NPM (Node package manager)
 
 ## Available Scripts
 
